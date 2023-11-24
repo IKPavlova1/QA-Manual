@@ -1,1 +1,1 @@
-# State Transition
+# Manual QA TEsting Techniques
